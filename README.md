@@ -13,3 +13,5 @@
 > In this mini project, you will get to review JavaScript fundamentals like functions, variables, conditionals and more by building a gradebook app.
 
 > This will give you an opportunity to solve small problems and get a better understanding of the basics.
+3. 🕹️ [Role playing game](03-role-playing-game)
+> In this practice project, you'll learn fundamental programming concepts in JavaScript by coding your own Role Playing Game. You'll learn how to work with arrays, strings, objects, functions, loops, if/else statements, and more.
