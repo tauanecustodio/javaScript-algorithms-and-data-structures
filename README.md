@@ -27,3 +27,6 @@
 8. 🗓️ [Date formatter](08-date-formatter)
 >In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.  
 >This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods.
+9. 🔤 [Palindrome Checker](09-palindrome-checker)
+>This is one of the required projects to earn your certification.  
+>For this project, you'll build an application that checks whether a given word is a palindrome.
