@@ -29,4 +29,7 @@
 >For this project, you'll build an application that checks whether a given word is a palindrome.
 9. 🗓️ [Date formatter](08-date-formatter)
 >In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.  
->This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods.
+>This project will cover concepts such as the `getDate()`, `getMonth()`, and `getFullYear()` methods.
+10.⚽ [Football Team Cards](10-football-team-cards)
+> One common aspect of building web applications: processing datasets, and then outputting information to the screen. In this sports team cards project, you'll learn how to work with DOM manipulation, object destructuring, event handling, and data filtering.
+> This project will cover concepts like, default parameters, `Object.freeze()`, and reinforce your knowledge of the `switch` statement and `map()` method.
