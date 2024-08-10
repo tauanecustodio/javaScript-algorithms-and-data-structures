@@ -24,9 +24,9 @@
 7. 🎵 [Music Player](07-music-player)
 >Now let's learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.  
 >In this project, you'll code a basic MP3 player using HTML, CSS, and JavaScript. The project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities. You'll even learn how to dynamically update your user interface based on the current song.
-8. 🗓️ [Date formatter](08-date-formatter)
->In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.  
->This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods.
-9. 🔤 [Palindrome Checker](09-palindrome-checker)
+8. 🔤 [Palindrome Checker](09-palindrome-checker)
 >This is one of the required projects to earn your certification.  
 >For this project, you'll build an application that checks whether a given word is a palindrome.
+9. 🗓️ [Date formatter](08-date-formatter)
+>In this project, you'll learn how to work with the JavaScript Date object, including its methods and properties. You'll also learn how to correctly format dates.  
+>This project will cover concepts such as the getDate(), getMonth(), and getFullYear() methods.
